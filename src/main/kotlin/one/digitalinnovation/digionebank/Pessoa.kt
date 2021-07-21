@@ -13,8 +13,6 @@ class Pessoa {
 fun main() {
 
     val flavio = Pessoa()
-
-    println(flavio)
     println(flavio.pessoaInfo())
 
 
